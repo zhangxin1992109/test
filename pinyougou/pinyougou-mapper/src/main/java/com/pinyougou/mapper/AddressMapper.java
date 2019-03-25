@@ -10,7 +10,7 @@ import com.pinyougou.pojo.Address;
  * @version 1.0
  */
 public interface AddressMapper extends Mapper<Address>{
-
+   public void test();
 
 
 }
