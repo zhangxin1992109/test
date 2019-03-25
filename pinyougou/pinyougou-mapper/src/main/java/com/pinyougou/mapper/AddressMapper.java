@@ -11,6 +11,7 @@ import com.pinyougou.pojo.Address;
  */
 public interface AddressMapper extends Mapper<Address>{
    public void test();
+   public void test2();
 
 
 }
